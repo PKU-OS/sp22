@@ -13,7 +13,7 @@ Peking University, 2022 Spring
 <img src="/sp22/assets/images/pkuos-pure.svg">
 
 <p>
-<a href="https://flyingpig-1.gitbook.io/pintos/" class="btn btn-purple">Project Gitbook</a>
+<a href="https://flyingpig-1.gitbook.io/pintos_v1/" class="btn btn-purple">Project Gitbook</a>
 <a href="https://gradescope.com" class="btn btn-blue">Gradescope</a>
 </p>
 
