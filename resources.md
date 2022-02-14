@@ -4,7 +4,7 @@ title: Resources
 nav_order: 5
 ---
 
-# Textbooks
+# Recommended Textbook
 
 <p>
 <a href="http://www.ostep.org/">
@@ -15,7 +15,7 @@ nav_order: 5
 ### Operating Systems: Three Easy Pieces
 by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, available [online](http://www.ostep.org/) for free!
 
-**Other recommended textbooks:**
+**Supplementary Material:**
 - [Operating Systems: Principles and Practice (2nd Edition)](http://ospp.cs.washington.edu/)
 - [Linux Kernel Development (3rd Edition)](http://www.amazon.com/Linux-Kernel-Development-3rd-Edition/dp/0672329468)
 
@@ -24,6 +24,3 @@ by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, available [online](http
 
 # Markdown tutorial
 You need to write markdown in your project design document. This [online tutorial](https://www.markdowntutorial.com/zh-cn/) may help you. There are many markdown editors at your choice, such as Typro, vscode, and so on.
-
-# Past exams
-Unfortunately, this is the first term of PKUOS.
