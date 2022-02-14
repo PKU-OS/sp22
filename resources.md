@@ -15,7 +15,7 @@ nav_order: 5
 ### Operating Systems: Three Easy Pieces
 by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, available [online](http://www.ostep.org/) for free!
 
-**Supplementary Material:**
+**Supplementary Materials:**
 - [Operating Systems: Principles and Practice (2nd Edition)](http://ospp.cs.washington.edu/)
 - [Linux Kernel Development (3rd Edition)](http://www.amazon.com/Linux-Kernel-Development-3rd-Edition/dp/0672329468)
 
