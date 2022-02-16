@@ -14,7 +14,7 @@ Peking University, 2022 Spring
 
 <p>
 <a href="https://flyingpig-1.gitbook.io/pintos_v1/" class="btn btn-purple">Project Gitbook</a>
-<a href="https://gradescope.com" class="btn btn-blue">Gradescope</a>
+<a href="https://codepost.io" class="btn btn-blue">CodePost</a>
 </p>
 
 <div>
@@ -30,7 +30,7 @@ Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 {% if site.announcements %}
 {{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
+[Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
 
 ## Schedule
