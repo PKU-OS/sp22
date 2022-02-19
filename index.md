@@ -17,15 +17,6 @@ Peking University, 2022 Spring
 <a href="https://course.pku.edu.cn/" class="btn btn-blue">Course</a>
 </p>
 
-<div>
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-<div class="role">
-  {% for staffer in instructors %}
-  {{ staffer }}
-  {% endfor %}
-</div>
-</div>
-
 Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 {% if site.announcements %}
