@@ -14,10 +14,7 @@ Peking University, 2022 Spring
 
 <p>
 <a href="https://flyingpig-1.gitbook.io/pintos_v1/" class="btn btn-purple">Project Gitbook</a>
-<a href="https://course.pku.edu.cn/" class="btn btn-blue">Course</a>
 </p>
-
-Jump to current week: [here](#week-{{page.currWeekNumber}}).
 
 {% if site.announcements %}
 {{ site.announcements.last }}
