@@ -1,10 +1,10 @@
 # PKUOS Spring 2022 website
-This repo contains the source code of the website for the Spring 2022 Operating System Course Honor track at Peking University. The repo for the main page is [here](https://github.com/PKU-OS/PKU-OS.github.io).
+This repo contains the source code of the website for the Spring 2022 Operating Systems Course Honor track at Peking University. The repo for the main page is [here](https://github.com/PKU-OS/PKU-OS.github.io).
 
 ## TODO
 ### Instructor
 - syllabus.md : introduction, policy, grading.
-- add slides into *assets/slides* folder. 
+- add slides into *assets/slides* folder.
 
 ### TA
 - Resources page.
@@ -29,7 +29,7 @@ This repo contains the source code of the website for the Spring 2022 Operating 
 - schedule.md
 ### Support files
 - _config.yml : configuration file for the website
-- _includes/ : reused components 
+- _includes/ : reused components
 - _layouts/ : html templates
 - _sass/ : css template
 - assets/ : static files, e.g. ppt, pdf, images (TODO)
