@@ -23,4 +23,4 @@ by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, available [online](http
 [Ladder](https://cs162.org/ladder/) is a helpful tutorial to help brush up on C. It is created by a Berkeley student for CS162. Special thanks to Jason Chin!
 
 # Markdown tutorial
-You need to write markdown in your project design document. This [online tutorial](https://www.markdowntutorial.com/zh-cn/) may help you. There are many markdown editors at your choice, such as Typro, vscode, and so on.
+You need to write markdown in your project design document. This [online tutorial](https://www.markdowntutorial.com/zh-cn/) may help you. There are many markdown editors at your choice, such as Typora, vscode, and so on.
