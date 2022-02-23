@@ -4,7 +4,7 @@ weekNumber: 1
 ---
 
 Feb 22
-: **lecture**{: .label .label-blue}Introduction
+: **lecture**{: .label .label-blue}[Introduction](/sp22/assets/slides/lec01_introduction.pdf)
   : **Read**{: .label .label-green}[Ch1](https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf), [Ch2](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 : **Lab 0 Out**{: .label .label-purple } [Lab0: Getting Real](https://flyingpig-1.gitbook.io/pintos_v1/project-description/lab0-booting)
 
