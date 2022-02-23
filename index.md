@@ -10,7 +10,7 @@ currWeekNumber: 1
 Peking University, 2022 Spring
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-<img src="/sp22/assets/images/pkuos-pure.svg">
+<img src="/sp22/assets/images/pkuos.svg">
 
 <p>
 <a href="https://alfredthiel.gitbook.io/pintosbook/" class="btn btn-purple">Project Gitbook</a>
