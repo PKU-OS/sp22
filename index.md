@@ -13,7 +13,8 @@ Peking University, 2022 Spring
 <img src="/sp22/assets/images/pkuos-pure.svg">
 
 <p>
-<a href="https://flyingpig-1.gitbook.io/pintos_v1/" class="btn btn-purple">Project Gitbook</a>
+<a href="https://alfredthiel.gitbook.io/pintosbook/" class="btn btn-purple">Project Gitbook</a>
+<a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
 </p>
 
 {% if site.announcements %}
