@@ -11,4 +11,4 @@ Feb 22
 Feb 24
 : **lecture**{: .label .label-blue}Concepts
   : **Read**{: .label .label-green}[Ch6](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)
-: **TA session**{: .label .label-yellow}[Pintos Overview](#)
+: **TA session**{: .label .label-yellow}[Pintos Overview](/sp22/assets/slides/TA_session1.pdf)
