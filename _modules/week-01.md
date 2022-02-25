@@ -12,3 +12,4 @@ Feb 24
 : **lecture**{: .label .label-blue}Concepts
   : **Read**{: .label .label-green}[Ch6](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)
 : **TA session**{: .label .label-yellow}[Pintos Overview](/sp22/assets/slides/TA_session1.pdf)
+  : **Read**{: .label .label-green}[Disk Tutorial](https://linuxjourney.com/lesson/anatomy-of-a-disk), [Boot Tutorial](https://linuxjourney.com/lesson/boot-process-overview)
