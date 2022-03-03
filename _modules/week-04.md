@@ -1,14 +1,14 @@
 ---
-title: Week 3
-weekNumber: 3
+title: Week 4
+weekNumber: 4
 ---
 
-Mar 8
+Mar 15
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
 
 
-Mar 10
+Mar 17
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
 
