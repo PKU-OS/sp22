@@ -12,4 +12,5 @@ Mar 8
 Mar 10
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
+: **TA session**{: .label .label-yellow} [Lab1: Threads](#)
 
