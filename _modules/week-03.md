@@ -13,4 +13,4 @@ Mar 10
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
 : **TA session**{: .label .label-yellow} [Lab1: Threads](#)
-    : **Read**{: .label .label-green}[NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes)
+    : **Paper**{: .label .label-green}[NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes)
