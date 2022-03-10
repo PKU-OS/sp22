@@ -12,5 +12,5 @@ Mar 8
 Mar 10
 : **Lecture**{: .label .label-blue }[Synchronization 1: Concurrency](/sp22/assets/slides/lec06_synchronization1.pdf)
     : **Read**{: .label .label-green}[Ch26](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)
-: **TA session**{: .label .label-yellow} [Lab1: Threads](#)
+: **TA session**{: .label .label-yellow} [Lab1: Threads](/sp22/assets/slides/TA_session2.pdf)
     : **Paper**{: .label .label-green}[NSDI'19 Shinjuku](https://www.usenix.org/conference/nsdi19/presentation/kaffes)
