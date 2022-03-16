@@ -11,4 +11,4 @@ Mar 15
 
 Mar 17
 : **Lecture**{: .label .label-blue }[TBA](#)
-    : **Read**{: .label .label-green}[TBA](#)
+    : **Read**{: .label .label-green}[Ch30](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf), [Ch31](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
