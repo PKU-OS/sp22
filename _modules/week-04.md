@@ -10,7 +10,7 @@ Mar 15
     : **Paper**{: .label .label-green}[CCR'07 HowToRead](https://dl.acm.org/doi/10.1145/1273445.1273458)
 
 Mar 17
-: **Lecture**{: .label .label-blue }[TBA](#)
+: **Lecture**{: .label .label-blue }[Synchronization 3: Atomic Introductions, Monitors](/sp22/assets/slides/lec08_synchronization3.pdf)
     : **Read**{: .label .label-green}[Ch30](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf), [Ch31](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)
 : &emsp;
     : **Paper**{: .label .label-green}[OSDI'06 Chubby](https://www.usenix.org/legacy/event/osdi06/tech/burrows.html)
