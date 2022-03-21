@@ -4,8 +4,8 @@ weekNumber: 5
 ---
 
 Mar 22
-: **Lecture**{: .label .label-blue }[TBA](#)
-    : **Read**{: .label .label-green}[TBA](#)
+: **Lecture**{: .label .label-blue }[Synchronization4: Monitor, Readers/Writers](#)
+    : **Read**{: .label .label-green}[Ch32](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf), [Ch33](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)
 : &emsp;
     : **Paper**{: .label .label-green}[TBA](#)
 
