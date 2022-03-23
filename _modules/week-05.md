@@ -13,7 +13,7 @@ Mar 24
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
 : **Lab 1 Code due**{: .label .label-red }
-    : **Paper**{: .label .label-green}[TBA](#)
+    : **Paper**{: .label .label-green}[SOSP'17 ZygOS](https://dl.acm.org/doi/10.1145/3132747.3132780)
 
 Mar 27
 : **Lab 1 Doc due**{: .label .label-red }
