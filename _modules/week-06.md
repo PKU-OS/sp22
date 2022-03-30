@@ -12,5 +12,5 @@ Mar 31
     : **Read**{: .label .label-green}[TBA](#)
 : &emsp;
     : **Paper**{: .label .label-green}[NSDI'11 DRF](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
-: **TA session**{: .label .label-yellow}[Lab2: User Programs](#)
-  : **Notes**{: .label .label-green}[Notion Link](https://horse-polka-a25.notion.site/lab2-User-Programs-ca2f3efa8b674ebca975d7f82109b431)
+: **TA session**{: .label .label-yellow}[Lab2: User Programs](/sp22/assets/slides/TA_session3.pdf)
+    : **Notes**{: .label .label-green}[Notion Link](https://horse-polka-a25.notion.site/lab2-User-Programs-ca2f3efa8b674ebca975d7f82109b431)
