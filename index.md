@@ -15,6 +15,7 @@ Peking University, 2022 Spring
 <p>
 <a href="https://alfredthiel.gitbook.io/pintosbook/" class="btn btn-purple">Project Gitbook</a>
 <a href="https://course.pku.edu.cn" class="btn btn-green">PKU Course Website</a>
+<a href="piazza.com/pku.edu.cn/spring2022/04834490" class="btn btn-blue">Piazza</a>
 </p>
 
 {% if site.announcements %}
