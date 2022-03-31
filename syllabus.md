@@ -3,15 +3,10 @@ layout: page
 title: Syllabus
 nav_order: 2
 description: >-
-    Course policies and information.
+    Course syllabus.
 ---
 
 # Syllabus
-{:.no_toc}
-
-Jump to:
-* TOC
-{:toc}
 
 <br>
 
