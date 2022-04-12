@@ -10,6 +10,7 @@ April 19
     : **Paper**{: .label .label-green}[TBA](#)
 
 April 21
-: **Mid Term**{: .label .label-red }[TBA](#)
+: **Mid Term**{: .label .label-red }
+    : &emsp;
 
 
