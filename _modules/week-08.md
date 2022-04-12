@@ -4,10 +4,9 @@ weekNumber: 8
 ---
 
 April 12
-: **Lecture**{: .label .label-blue }[TBA](#)
-    : **Read**{: .label .label-green}[TBA](#)
+: **Lecture**{: .label .label-blue }[Scheduling4: Deadlock & Scheduling in Modern Computer Systems](/sp22/assets/slides/lec13_scheduling4.pdf)
 : &emsp;
-    : **Paper**{: .label .label-green}[TBA](#)
+    : **Paper**{: .label .label-green}[ZygOS](https://abelay.github.io/6828seminar/papers/prekas:zygos.pdf), [Tiresias](https://www.usenix.org/conference/nsdi19/presentation/gu), [FairRide](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/pu)
 
 April 14
 : **Lecture**{: .label .label-blue }[TBA](#)
@@ -16,6 +15,6 @@ April 14
     : **Paper**{: .label .label-green}[TBA](#)
 
 April 17
-: **Lab 2 Doc due**{: .label .label-red }
+: **Lab 3 Doc due**{: .label .label-red }
     : &emsp;
 
