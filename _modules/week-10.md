@@ -14,5 +14,7 @@ April 28
     : **Read**{: .label .label-green}[TBA](#)
 : &emsp;
     : **Paper**{: .label .label-green}[TBA](#)
+: **TA session**{: .label .label-yellow}[Lab3a: Demand Paging](#)
+    : &emsp;
 
 
