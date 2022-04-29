@@ -10,9 +10,9 @@ April 26
     : **Paper**{: .label .label-green}[NSDI'17 InfiniSwap](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 
 April 28
-: **Lecture**{: .label .label-blue }[TBA](#)
-    : **Read**{: .label .label-green}[TBA](#)
+: **Lecture**{: .label .label-blue }[Memory 2: Caching and TLBs](/sp22/assets/slides/lec15_memory2.pdf)
+    : **Read**{: .label .label-green}[Ch19](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf)
 : &emsp;
     : **Paper**{: .label .label-green}[TBA](#)
-: **TA session**{: .label .label-yellow}[Lab3a: Demand Paging](#)
+: **TA session**{: .label .label-yellow}[Lab3: Virual Memory](/sp22/assets/slides/TA_session_lab3.pdf)
     : &emsp;
