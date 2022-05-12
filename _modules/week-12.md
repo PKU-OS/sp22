@@ -13,4 +13,4 @@ May 12
 : **Lecture**{: .label .label-blue }[TBA](#)
     : **Read**{: .label .label-green}[TBA](#)
 : &emsp;
-    : **Paper**{: .label .label-green}[TBA](#)
+    : **Paper**{: .label .label-green}[OSDI'20 PipeSwitch](https://www.usenix.org/conference/osdi20/presentation/bai)
