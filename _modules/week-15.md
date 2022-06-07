@@ -4,7 +4,7 @@ weekNumber: 15
 ---
 
 May 31
-: **Guest Lecture**{: .label .label-blue }[(Bin Fan)](https://www.alluxio.io/)[Building a Distributed File System for the Cloud-Native Era](/sp22/assets/slides/guest_binfan.pdf)
+: **Guest Lecture**{: .label .label-blue }[(Bin Fan)](https://www.alluxio.io/) [Building a Distributed File System for the Cloud-Native Era](/sp22/assets/slides/guest_binfan.pdf)
     : **Paper**{: .label .label-green}[Alluxio](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-29.html)
 
 June 2
