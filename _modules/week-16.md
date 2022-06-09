@@ -10,7 +10,4 @@ June 7
     : **Paper**{: .label .label-green}[SIGCOMM'01 Chord](https://dl.acm.org/doi/10.1145/383059.383071)
 
 June 9
-: **Lecture**{: .label .label-blue }[TBA](#)
-    : **Read**{: .label .label-green}[TBA](#)
-: &emsp;
-    : **Paper**{: .label .label-green}[TBA](#)
+: **Lecture**{: .label .label-blue }[File System 5: Storage and File Systems in Modern Computer Systems](/sp22/assets/slides/lec22_file5.pdf)
